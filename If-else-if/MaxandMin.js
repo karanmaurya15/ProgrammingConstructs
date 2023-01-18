@@ -8,6 +8,3 @@ console.log("Maximum: " + Math.max(result1, result2, result3, result4));
 console.log("Minimum: " + Math.min(result1, result2, result3, result4));
 }
 findMaxMin(3, 4, 6);
-
-
-  
